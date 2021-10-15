@@ -1,0 +1,31 @@
+body{ 
+    background-color: rgb(154, 183, 247);
+}
+
+.contactos{
+    background-color: rgb(255, 255, 255);
+    margin: 100px 550px;
+    width: 350px;
+    padding: 10px 15px;
+    border: solid 1px #ddd;
+    border-radius: 4px;
+    
+}
+ul{
+    padding-left: 0px;
+    list-style-type: none;
+}
+li{ 
+    border-bottom: solid 1px #ddd;
+    padding: 15px;
+}
+img{
+    border-radius: 50%;
+}
+.michi1{
+    
+    height:30px;
+}
+.desc{
+   color: rgba(150, 150, 150, 0.92);
+}
